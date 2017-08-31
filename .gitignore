@@ -1,0 +1,4 @@
+.idea/
+*.pyc
+/dist/
+/slacki_can.egg-info/
